@@ -1,1 +1,9 @@
-# github-exercise-1
+## Git Studies 1
+
+#### Learning topics
+- Repositories
+- Commit
+- Branches
+- Merging
+- Rebase
+- Releases
